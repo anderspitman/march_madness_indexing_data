@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2020",
+    "Indexed": "2038",
     "Arbitrated": "0",
     "Redo Batches": "7"
   },
@@ -19,15 +19,9 @@
   },
   {
     "Name": "Mission Bay YSA Ward",
-    "Indexed": "788",
+    "Indexed": "798",
     "Arbitrated": "0",
     "Redo Batches": "1"
-  },
-  {
-    "Name": "Pioneer YSA Ward",
-    "Indexed": "38",
-    "Arbitrated": "0",
-    "Redo Batches": "0"
   },
   {
     "Name": "San Marcos YSA Ward",
@@ -49,7 +43,7 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "601",
+    "Indexed": "647",
     "Arbitrated": "0",
     "Redo Batches": "5"
   }
