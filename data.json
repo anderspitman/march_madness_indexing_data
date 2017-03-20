@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "1983",
+    "Indexed": "2001",
     "Arbitrated": "0",
     "Redo Batches": "6"
   },
@@ -36,6 +36,12 @@
     "Redo Batches": "0"
   },
   {
+    "Name": "Southshore YSA Ward",
+    "Indexed": "38",
+    "Arbitrated": "0",
+    "Redo Batches": "0"
+  },
+  {
     "Name": "Towne Lake YSA Ward",
     "Indexed": "49",
     "Arbitrated": "0",
@@ -43,7 +49,7 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "602",
+    "Indexed": "582",
     "Arbitrated": "0",
     "Redo Batches": "4"
   }
