@@ -1,9 +1,9 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2006",
+    "Indexed": "2020",
     "Arbitrated": "0",
-    "Redo Batches": "6"
+    "Redo Batches": "7"
   },
   {
     "Name": "Horizon YSA Ward",
@@ -49,8 +49,8 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "587",
+    "Indexed": "601",
     "Arbitrated": "0",
-    "Redo Batches": "4"
+    "Redo Batches": "5"
   }
 ]
