@@ -1,13 +1,19 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2266",
+    "Indexed": "2360",
     "Arbitrated": "0",
     "Redo Batches": "8"
   },
   {
     "Name": "Horizon YSA Ward",
-    "Indexed": "20",
+    "Indexed": "30",
+    "Arbitrated": "0",
+    "Redo Batches": "0"
+  },
+  {
+    "Name": "McClintock YSA ward",
+    "Indexed": "10",
     "Arbitrated": "0",
     "Redo Batches": "0"
   },
@@ -25,7 +31,7 @@
   },
   {
     "Name": "Pioneer YSA Ward",
-    "Indexed": "50",
+    "Indexed": "60",
     "Arbitrated": "0",
     "Redo Batches": "0"
   },
@@ -55,7 +61,7 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "805",
+    "Indexed": "869",
     "Arbitrated": "0",
     "Redo Batches": "6"
   }
