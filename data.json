@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2475",
+    "Indexed": "2503",
     "Arbitrated": "0",
     "Redo Batches": "8"
   },
@@ -19,13 +19,13 @@
   },
   {
     "Name": "McClintock YSA Ward",
-    "Indexed": "448",
+    "Indexed": "458",
     "Arbitrated": "0",
     "Redo Batches": "1"
   },
   {
     "Name": "Mission Bay YSA Ward",
-    "Indexed": "798",
+    "Indexed": "806",
     "Arbitrated": "0",
     "Redo Batches": "1"
   },
@@ -61,7 +61,7 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "929",
+    "Indexed": "939",
     "Arbitrated": "0",
     "Redo Batches": "6"
   }
