@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2826",
+    "Indexed": "2836",
     "Arbitrated": "0",
     "Redo Batches": "8"
   },
@@ -43,7 +43,7 @@
   },
   {
     "Name": "Southshore YSA Ward",
-    "Indexed": "10",
+    "Indexed": "20",
     "Arbitrated": "0",
     "Redo Batches": "0"
   },
