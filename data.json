@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2920",
+    "Indexed": "2930",
     "Arbitrated": "0",
     "Redo Batches": "8"
   },
@@ -25,7 +25,7 @@
   },
   {
     "Name": "Pioneer YSA Ward",
-    "Indexed": "108",
+    "Indexed": "118",
     "Arbitrated": "0",
     "Redo Batches": "0"
   },
