@@ -1,7 +1,7 @@
 [
   {
     "Name": "Tempe Arizona YSA Stake",
-    "Indexed": "2252",
+    "Indexed": "2266",
     "Arbitrated": "0",
     "Redo Batches": "8"
   },
@@ -55,7 +55,7 @@
   },
   {
     "Name": "University YSA Ward",
-    "Indexed": "791",
+    "Indexed": "805",
     "Arbitrated": "0",
     "Redo Batches": "6"
   }
